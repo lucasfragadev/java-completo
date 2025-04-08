@@ -1,3 +1,5 @@
+package EstruturaSequencial;
+
 public class Exercicios1 {
     public static void main(String[] args) {
         int x = 10;

@@ -1,3 +1,5 @@
+package Geral;
+
 import java.util.Locale;
 
 public class Main {

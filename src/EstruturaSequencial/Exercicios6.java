@@ -1,3 +1,5 @@
+package EstruturaSequencial;
+
 public class Exercicios6 {
     public static void main(String[] args) {
         double A = 3.0;
