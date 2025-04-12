@@ -46,8 +46,6 @@ public class Exercicios5 {
             total = valorRefrigerante * quantidadeItem;
             System.out.printf("Total R$: %.2f%n", total);
         }
-
         sc.close();
-
     }
 }
