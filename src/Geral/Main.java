@@ -21,6 +21,7 @@ public class Main {
         Locale.setDefault(Locale.US);
         System.out.printf("Numéro em formato US: " + measure);
 
+
     }
 
 }
