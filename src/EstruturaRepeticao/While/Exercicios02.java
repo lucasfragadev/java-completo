@@ -1,4 +1,4 @@
-package EstruturaRepeticao;
+package EstruturaRepeticao.While;
 
 import java.util.Locale;
 import java.util.Scanner;
